@@ -67,4 +67,4 @@ const playGame = () => {
     console.log(`The final score was \nHuman: ${humanScore} \nComputer: ${computerScore}`);
 }
 
-playGame(); 
+//playGame(); 
